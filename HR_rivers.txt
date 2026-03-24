@@ -1,0 +1,45 @@
+name;length_in_hr;total_length;drains_into
+Bednja;133;133;Drava
+Bijela;59;59;Pakra
+Boljunčica;33;33;Adriatic Sea
+Bosut;151;186;Sava
+Česma;124;124;Lonja-Trebež
+Cetina;101;101;Adriatic Sea
+Danube;188;2860;Black Sea
+Dobra;104;104;Kupa
+Drava;505;749;Danube
+Gacka;11;11;Adriatic Sea
+Glina;100;100;Kupa
+Glogovnica;61;61;Česma
+Ilova;85;85;Lonja-Trebež
+Jadro;4;4;Adriatic Sea
+Karašica;91;91;Drava
+Karašica;30,46;81;Danube
+Korana;134;134;Kupa
+Krapina;75;75;Sava
+Krka;73;73;Adriatic Sea
+Kupa;296;296;Sava
+Kupčina;56;56;Kupa
+Lika;78;78;subterranean
+Lonja-Trebež;133;133;Sava
+Mirna;53;53;Adriatic Sea
+Mrežnica;63;63;Korana
+Mura;67;483;Drava
+Neretva;20;213;Adriatic Sea
+Odra;83;83;Kupa
+Ombla;0,03;0,03;Adriatic Sea
+Orljava;89;89;Sava
+Pakra;72;72;Lonja-Trebež
+Plitvica (river);65;65;Drava
+Raša;23;23;Adriatic Sea
+Rječina;19;19;Adriatic Sea
+Sava;562;945;Danube
+Slunjčica;12,5;12,5;Korana
+Spačva;40;40;Bosut
+Studva;19;37;Bosut
+Sunja;69;69;Sava
+Sutla;89;92;Sava
+Trnava;47;47;Mura
+Una;120;212;Sava
+Vuka;112;112;Danube
+Zrmanja;69;69;Adriatic Sea
