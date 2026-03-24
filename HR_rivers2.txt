@@ -1,0 +1,45 @@
+name;length_in_hr;located_in_hr;drains_into
+Bednja;133Km;100%;Drava
+Bijela;59Km;100%;Pakra
+Boljunčica;33Km;100%;Adriatic Sea
+Bosut;151Km;81%;Sava
+Česma;124Km;100%;Lonja-Trebež
+Cetina;101Km;100%;Adriatic Sea
+Danube;188Km;7%;Black Sea
+Dobra;104Km;100%;Kupa
+Drava;505Km;67%;Danube
+Gacka;11Km;100%;Adriatic Sea
+Glina;100Km;100%;Kupa
+Glogovnica;61Km;100%;Česma
+Ilova;85Km;100%;Lonja-Trebež
+Jadro;4Km;100%;Adriatic Sea
+Karašica;91Km;100%;Drava
+Karašica;30.46Km;38%;Danube
+Korana;134Km;100%;Kupa
+Krapina;75Km;100%;Sava
+Krka;73Km;100%;Adriatic Sea
+Kupa;296Km;100%;Sava
+Kupčina;56Km;100%;Kupa
+Lika;78Km;100%;subterranean
+Lonja-Trebež;133Km;100%;Sava
+Mirna;53Km;100%;Adriatic Sea
+Mrežnica;63Km;100%;Korana
+Mura;67Km;14%;Drava
+Neretva;20Km;9%;Adriatic Sea
+Odra;83Km;100%;Kupa
+Ombla;0.03Km;100%;Adriatic Sea
+Orljava;89Km;100%;Sava
+Pakra;72Km;100%;Lonja-Trebež
+Plitvica (river);65Km;100%;Drava
+Raša;23Km;100%;Adriatic Sea
+Rječina;19Km;100%;Adriatic Sea
+Sava;562Km;59%;Danube
+Slunjčica;12.5Km;100%;Korana
+Spačva;40Km;100%;Bosut
+Studva;19Km;51%;Bosut
+Sunja;69Km;100%;Sava
+Sutla;89Km;97%;Sava
+Trnava;47Km;100%;Mura
+Una;120Km;57%;Sava
+Vuka;112Km;100%;Danube
+Zrmanja;69Km;100%;Adriatic Sea

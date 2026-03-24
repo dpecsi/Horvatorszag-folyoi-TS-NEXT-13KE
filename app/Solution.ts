@@ -34,6 +34,31 @@ export default class Solution {
     return sorted[0];
   }
 
+  get drainsStats(): Map<string, number> {
+    let stats: Map<string, number> = new Map<string, number>();
+    for (const river of this.#rivers) {
+      const mennyiség: number = stats.get(river.drainsInto) ?? 0;
+      stats.set(river.drainsInto, mennyiség + 1);
+    }
+    stats = new Map<string, number>(
+      stats
+        .entries()
+        .filter((value) => value[1] > 3)
+        .toArray()
+        .sort((a, b) => b[1] - a[1]),
+    );
+    return stats;
+  }
+
+  writeLength(targetFile: string) {
+    let lines: string = "name;length_in_hr;located_in_hr;drains_into\n";
+    for (const river of this.#rivers) {
+      const százalék: number = (river.lengthInHR / river.totalLength) * 100;
+      lines += `${river.name};${river.lengthInHR}Km;${százalék.toFixed(0)}%;${river.drainsInto}\n`;
+    }
+    fs.writeFileSync(targetFile, lines, "utf-8");
+  }
+
   constructor(sourceFile: string) {
     // readFileSync(sourceFile, "utf-8") -> Szöveges állományt beolvas, egy string típusú adattal tér vissza
     // split("\n") -> állomány adatait adatsorokra tördeli
